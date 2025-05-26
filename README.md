@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ ผมชื่อ นพรัตน์ แสวงสุข (TonRichards)
+# 👋 สวัสดีครับ ผมชื่อ นพรัตน์ แสวงสุข (Ton)
 
 Backend Developer ที่เชี่ยวชาญ Laravel, REST API, Docker และ DevOps Workflow  
 มีประสบการณ์มากกว่า 5 ปีในการพัฒนา API และระบบ ERP ขนาดเล็กถึงกลาง
